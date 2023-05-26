@@ -1,0 +1,7 @@
+.expo
+.shadow-cljs
+.cpc*
+node_modules
+build
+*.lock
+*.log
