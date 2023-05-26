@@ -3,9 +3,9 @@ Trainder
 ## Set up your dev env 
 - Install Java (I know. Sorry.)
 
-- Install leiningen:
+- Install clojure 
 ```
-$ brew install lein
+$ brew install clojure
 ``` 
 
 - Install all deps
