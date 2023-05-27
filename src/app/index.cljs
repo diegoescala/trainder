@@ -16,7 +16,6 @@
    [re-frame.core :refer [dispatch-sync]]
    [shadow.expo :as expo]
 
-   [app.fx]
    [app.helpers :refer [<sub >evt]]
    [app.state :as state]
 
